@@ -1,4 +1,5 @@
 Project where i insert new things that i learn.
+
 Technologies:
 JavaScript,React,Java,Spring Boot 3,Spring JPA,Bootstrap,MySQL,Axios,Maven.
 
