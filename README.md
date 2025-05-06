@@ -7,6 +7,7 @@ What contains the project:
 - Tasks and Employee management with Fron-end with Routes,Components,Services  Back-end REST services,DTO,Controller,Mapper,Repository.
 
 ![{1F3B4E74-91CD-4730-9162-CAFEAB401650}](https://github.com/user-attachments/assets/400a7290-68a7-4963-ac30-2e0a1841038b)
-![image](https://github.com/user-attachments/assets/2b4d6b41-1fa5-41e1-92b5-b7f97a9e04c5)
-![{40185750-307C-4D80-83FC-32F354756EE6}](https://github.com/user-attachments/assets/9bcd5e03-965b-42d3-ac8a-9831052aad67)
+![{045895E8-2190-4EEF-A471-613308E51995}](https://github.com/user-attachments/assets/a05b5a60-553f-4997-9056-ff0472832cab)
+![{FD8968A0-5DA5-49A2-BC59-166E88FF2B6E}](https://github.com/user-attachments/assets/1f73da2b-d689-4f89-a2a9-74a54c8ca0d5)
+
 
